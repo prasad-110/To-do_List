@@ -1,0 +1,8 @@
+This program defines several functions to handle different tasks.
+The show_menu() function displays the available options to the user.
+The add_task() function allows the user to enter a new task and adds it to the list.
+The view_tasks() function displays all the tasks in the list.
+The mark_completed() function marks a specific task as completed by adding "[DONE]" before the task description.
+The delete_task() function deletes a task from the list based on the task number provided.
+The program runs in a loop until the user chooses to exit by entering "5".
+The user can perform various operations like adding tasks, viewing tasks, marking tasks as completed, and deleting tasks.
